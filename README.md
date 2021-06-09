@@ -1,6 +1,6 @@
 # Robinhood.JS
 
-Robinhood API for Node.JS - Documentation coming soon
+Robinhood API for Node.JS - Documentation work in process
 
 Node.JS Framework to view portfolio information with the private [Robinhood](https://www.robinhood.com/) API. Using this API is not encouraged, since it's not officially available and it has been reverse engineered.
 See @Sanko's [Unofficial Documentation](https://github.com/sanko/Robinhood) for more information.
